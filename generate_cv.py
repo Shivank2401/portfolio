@@ -111,7 +111,6 @@ PROJECTS = [
     ("Board Decks & CXO Reports", "Monthly board decks and executive reports translating operational metrics into growth plans."),
     ("Strategy Presentations", "Data-backed strategy and business review presentations for leadership and stakeholders."),
     ("ETL & Reporting Automation", "Python and Power Automate pipelines ingesting Amazon/Walmart data, reducing manual reporting by 90%."),
-    ("Carbon Footprint Tracker", "Tracking system for emissions monitoring and validation of sustainability targets."),
 ]
 
 EDUCATION = [
